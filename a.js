@@ -1,2 +1,1 @@
-<button type="button" onclick="document.getElementById('teste').innerHTML = Date()">
-Data</button>
+<button type="button" onclick="document.getElementById('teste').innerHTML = Date()"> Data </button>
